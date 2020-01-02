@@ -1,7 +1,7 @@
 # food_carousel
 
 A new Flutter application.
-![Screenshot_2020-01-02-23-08-14-237_com example food_carousel](https://user-images.githubusercontent.com/47901875/71682503-ed318f00-2db5-11ea-971b-9153c0f5049a.jpg){ width=50% }
+![Screenshot_2020-01-02-23-08-14-237_com example food_carousel](https://user-images.githubusercontent.com/47901875/71682503-ed318f00-2db5-11ea-971b-9153c0f5049a.jpg)
 ![Screenshot_2020-01-02-23-08-01-965_com example food_carousel](https://user-images.githubusercontent.com/47901875/71682511-f28ed980-2db5-11ea-82ed-b16fda370981.jpg)
 ![Screenshot_2020-01-02-23-07-17-754_com example food_carousel](https://user-images.githubusercontent.com/47901875/71682516-f7ec2400-2db5-11ea-8ceb-794034f225cb.jpg)
 ![Screenshot_2020-01-02-23-07-03-272_com example food_carousel](https://user-images.githubusercontent.com/47901875/71682527-fde20500-2db5-11ea-978c-d918d9b79161.jpg)
